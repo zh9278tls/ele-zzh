@@ -1,20 +1,20 @@
 {
-  "name": "ele-plus",
+  "name": "ele-zzh",
   "version": "1.0.0",
   "private": false,
-  "main": "lib/ele-plus.umd.min.js",
+  "main": "lib/ele-zzh.umd.min.js",
   "keyword": "vue directive short cut focus dialog debunce",
-  "author": "logmei",
+  "author": "zh9278tls",
   "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name ele-plus --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name ele-zzh --dest lib packages/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/logmei/ele-plus.git"
+    "url": "https://github.com/zh9278tls/ele-zzh"
   },
   "dependencies": {
     "core-js": "^2.6.5",
